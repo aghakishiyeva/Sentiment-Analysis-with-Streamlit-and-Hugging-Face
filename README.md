@@ -2,8 +2,6 @@
 
 This web application performs sentiment analysis on the text you provide. It's built using Streamlit and leverages the Hugging Face `transformers` library for the underlying sentiment analysis model.
 
-https://miro.medium.com/v2/resize:fit:1200/1*HI4Kj_HQ-JYQHlLD-KSkDw.jpeg
-
 ![HuggingFace_Streamlit](https://miro.medium.com/v2/resize:fit:1200/1*HI4Kj_HQ-JYQHlLD-KSkDw.jpeg)
 
 ## Features
